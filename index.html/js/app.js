@@ -1,5 +1,5 @@
 let IE = document?true:false;
-if (!IE) document(Event.MOUSEMOVE)
+if (!IE) document.addEventListene(Event.MOUSEMOVE)
 document.onmousemove = getMouseXY;
 let tempX = 0;
 let tempY = 0;

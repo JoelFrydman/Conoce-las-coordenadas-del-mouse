@@ -1,3 +1,18 @@
-.contenedor{
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box none;
+}
+
+body{
+   padding: 5%;
+   margin-top: 0%;
+   display: flex;  
+
+}
+
+.bloque-contenedor{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
     
 }
