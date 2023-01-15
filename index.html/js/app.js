@@ -13,3 +13,4 @@ if (tempY < 0){tempY = 0;}
 document.Show.MouseX.value = tempX;
 document.Show.MouseY.value = tempY;
 return true;}
+console.log(getMouseXY)
